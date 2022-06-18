@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=Hi,there?&animation=twinkling&fontSize=50&fontAlign=80&rotate=7&fontAlignY=12.5&desc=i'm%20beginner%20developer&descAlign=80&descAlignY=40)
  
-# 자라나는 새싹
-## Just do it !!
+> 자라나는 새싹
+> Just do it !!
 
 
 <!--
