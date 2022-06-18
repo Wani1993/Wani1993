@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=Hi,there?&animation=twinkling&fontSize=50&fontAlign=80&rotate=7&fontAlignY=12.5&desc=i'm%20beginner%20developer&descAlign=80&descAlignY=40)
 
-        💬 프로그래머는
-        문제 해결 능력을 키우는것.
+        💬 troubleshooter = Wani;
         
 ## learning language
 * JAVA , KOTLIN
