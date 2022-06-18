@@ -3,10 +3,7 @@
 
 ## learning language
 * JAVA , KOTLIN
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=graywhite&show_icons=true)
-  
-
- 
+## it's me. 
 > 자라나는 새싹🌱
 > 
 > Just do it !!
