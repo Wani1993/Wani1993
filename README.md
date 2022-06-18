@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=Hi,there?&animation=twinkling&fontSize=50&fontAlign=80&rotate=7&fontAlignY=20&desc=im%20beginner%20developer&descAlign=80&descAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=Hi,there?&animation=twinkling&fontSize=50&fontAlign=80&rotate=7&fontAlignY=20&desc=i'm%20beginner%20developer&descAlign=80&descAlignY=40)
 ### 🌱 I’m currently learning
 
 
