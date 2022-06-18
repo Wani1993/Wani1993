@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=Hi,there?&animation=twinkling&fontSize=50&fontAlign=80&rotate=7&fontAlignY=12.5&desc=i'm%20beginner%20developer&descAlign=80&descAlignY=40)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=graywhite&show_icons=true)#
+
  
 > 자라나는 새싹🌱#  
 > Just do it !!#
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=graywhite&show_icons=true)
 <!--
 **Wani1993/Wani1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
