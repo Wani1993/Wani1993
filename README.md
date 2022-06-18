@@ -4,11 +4,8 @@
         
 ## learning language
 * JAVA , KOTLIN
-
-  
-    
-    
-## it's me. 
+     
+> it's me. 
 > 자라나는 새싹🌱
 > 
 > Just do it !!
