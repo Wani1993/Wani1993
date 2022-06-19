@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=Hi,there?&animation=twinkling&fontSize=50&fontAlign=80&rotate=7&fontAlignY=12.5&desc=i'm%20beginner%20developer&descAlign=80&descAlignY=40)
 
-        💬for(int i = 30; i < Day of Death; i++)
+        💬for(int age = 30; age < Day of Death; age++)
                 Wani += upgrade; 
             
         
